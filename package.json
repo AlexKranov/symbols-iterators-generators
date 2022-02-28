@@ -2,7 +2,7 @@
   "name": "symbols-iterators-generators",
   "version": "1.0.0",
   "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
-  "main": "webpack.config.js",
+  "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "test": "jest",
