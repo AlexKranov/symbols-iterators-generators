@@ -24,6 +24,7 @@
 	"no-unused-vars": "off",
 	"prettier/prettier": "error",
 	"max-classes-per-file": "off",
+	"no-console": "off",
 	"quotes": ["error", "double"]
 
 	}
