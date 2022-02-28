@@ -60,3 +60,4 @@ class Team {
 ```
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/y40ovqpuu9n8gh8d?svg=true)](https://ci.appveyor.com/project/AlexKranov/symbols-iterators-generators)
